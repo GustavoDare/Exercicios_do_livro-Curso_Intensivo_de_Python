@@ -1,8 +1,8 @@
 # Autor: Gustavo Daré
 # Data: 17/04/2022
 
-# Usando um exercício desse capítulo, exibir os 3 elementos do inicío, do meio 
-#     e do final da lista, utilizando fatias
+# Usando um exercício desse capítulo, exibir os 3 elementos do inicío,
+#     do meio e do final da lista, utilizando fatias
 
 # Exercício 06
 impares = list(range(1, 20, 2))

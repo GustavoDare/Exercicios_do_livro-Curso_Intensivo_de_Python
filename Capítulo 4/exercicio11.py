@@ -1,9 +1,9 @@
 # Autor: Gustavo Daré
 # Data: 17/04/2022
 
-# Copiar o exercício 1 do capítulo 4, fazer uma cópia da lista, adicionar uma 
-#     pizza na lista original e outra, diferente, na cópia, e exibir as duas 
-#     listas provando que são listas diferentes
+# Copiar o exercício 1 do capítulo 4, fazer uma cópia da lista, 
+#     adicionar uma pizza na lista original e outra, diferente, na 
+#     cópia, e exibir as duas listas provando que são listas diferentes
 
 pizzas = ["calabresa", "carne seca", "brócolis com bacon"]
 for pizza in pizzas:

@@ -1,7 +1,8 @@
 # Autor: Gustavo Daré
 # Data: 08/04/2022
 
-# Criar uma lista com nome de países e utilizar todas as funções apresentadas no capítulo
+# Criar uma lista com nome de países e utilizar todas as funções 
+#     apresentadas no capítulo
 
 paises = ["brasil", "argentina", "estados unidos", "chile", "portugal", "itália"]
 print(f"\nLista original: {paises}")

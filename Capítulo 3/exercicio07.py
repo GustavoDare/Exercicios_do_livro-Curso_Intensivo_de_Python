@@ -1,9 +1,10 @@
 # Autor: Gustavo Daré
 # Data: 07/04/2022
 
-# Modificar o exercício 6 do capítulo 3: Manter apenas 2 convidados, mandando mensagens de desculpas aos 
-#     que foram retirados e reafirmando o convite aos dois que sobraram. No final, deletar esses dois convidados
-#     e mostrar que a lista atual está vazia.
+# Modificar o exercício 6 do capítulo 3: Manter apenas 2 convidados, 
+#     mandando mensagens de desculpas aos que foram retirados e 
+#     reafirmando o convite aos dois que sobraram. No final, deletar 
+#     esses dois convidados e mostrar que a lista atual está vazia.
 
 convidados = ["Albert Einstein", "Marie Curie", "Issac Newton"]
 print(f"\nPrezado {convidados[0]}, gostaria de convidá-lo para jantar comigo e mais alguns convidados.")
