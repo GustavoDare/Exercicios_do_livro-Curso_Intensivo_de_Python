@@ -18,7 +18,7 @@ pizzas = ["calabresa", "pepperoni", "quatro queijos", "carne seca"]
 print(f"Meu esporte preferido é handebol? "
     f"{esporte_preferido.lower() == 'handebol'}")
 print(f"Meu esporte preferido é futebol? "
-    f"{esporte_preferido.lower() == 'futebolol'}")
+    f"{esporte_preferido.lower() == 'futebol'}")
 print(f"Meu esporte preferido não é handebol? "
     f"{esporte_preferido.lower() != 'handebol'}")
 print(f"Meu esporte preferido não é vôlei? "
@@ -40,11 +40,12 @@ print(f"Nasci no ano de 2000 e tenho 21 anos? "
 print(f"Nasci no ano 2000 e tenho 22 anos? "
     f"{idade == 22 and ano_nascimento == 2000}")
 print(f"Tenho como esporte preferido handebol ou comida preferida fruta? "
-    f"{esporte_preferido.lower() == 'handebol' or comida_preferida == 'fruta'}")
+    f"{esporte_preferido.lower() == 'handebol' or comida_preferida =='fruta'}")
 print(f"Tenho como esporte preferido basquete e comida preferida macarrão? "
     f"{esporte_preferido == 'basquete' or comida_preferida == 'macarrão'}")
 print(f"Tem o sabor calabresa na lista pizzas? {'calabresa' in pizzas}")
 print(f"Tem o sabor portuguesa na lista pizzas? {'portuguesa' in pizzas}")
-print(f"Não tem o sabor pepperoni na lista pizzas? {'pepperoni' not in pizzas}")
+print(f"Não tem o sabor pepperoni na lista pizzas? "
+    f"{'pepperoni' not in pizzas}")
 print(f"Não tem o sabor portuguesa na lista pizzas? "
     f"{'portuguesa' not in pizzas}")

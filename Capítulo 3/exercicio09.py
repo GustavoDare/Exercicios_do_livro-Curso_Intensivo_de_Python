@@ -6,8 +6,11 @@
 #     método 'len()'
 
 convidados = ["Albert Einstein", "Marie Curie", "Issac Newton"]
-print(f"\nPrezado {convidados[0]}, gostaria de convidá-lo para jantar comigo e mais alguns convidados.")
-print(f"Prezada {convidados[1]}, gostaria de convidá-la para jantar comigo e mais alguns convidados.")
-print(f"Prezado {convidados[2]}, gostaria de convidá-lo para jantar comigo e mais alguns convidados.\n")
+print(f"\nPrezado {convidados[0]}, gostaria de convidá-lo para jantar comigo "
+    "e mais alguns convidados.")
+print(f"Prezada {convidados[1]}, gostaria de convidá-la para jantar comigo e "
+    "mais alguns convidados.")
+print(f"Prezado {convidados[2]}, gostaria de convidá-lo para jantar comigo e "
+    "mais alguns convidados.\n")
 
 print(f"Estão sendo convidados {len(convidados)} pessoas para o jantar.\n")
