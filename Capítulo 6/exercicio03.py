@@ -6,9 +6,6 @@
 #     seguida de dois pontos e o seu significado, colocar uma linha em 
 #     branco (\n) entre as definições.
 
-from inspect import getclosurevars
-
-
 glossário = {'variável': 'Espaço na memória do computador destinado a um dado',
     'lista': 'Sequência de elemetos mutáveis durante a execução do programa',
     'tupla': 'Sequência de elementos imutáveis',
