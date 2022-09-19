@@ -2,11 +2,8 @@
 # Data: 24/04/2022
 
 '''
-Estamos trabalhando agora com exemplos complexos o 
-    bastante para poderem ser estendidos de várias maneiras. Use um dos
-    programas de exemplo deste capítulo e estenda-o acrescentando novas
-    chaves e valores, alterando o contexto do programa ou melhorando a
-    formatação da saída.
+Estamos trabalhando agora com exemplos complexos o bastante para poderem ser estendidos de várias maneiras. Use um dos programas de exemplo
+    deste capítulo e estenda-o acrescentando novas chaves e valores, alterando o contexto do programa ou melhorando a formatação da saída.
 '''
 
 # Alterando o exercício 3 do capítulo 6

@@ -1,10 +1,10 @@
 # Autor: Gustavo Daré
 # Data: 22/04/2022
 
-# Crie um dicionário com 5 palavras de programação como chave e seus
-#     significados como seus respectivos valores. Exiba a palavra 
-#     seguida de dois pontos e o seu significado, colocar uma linha em 
-#     branco (\n) entre as definições.
+'''
+Crie um dicionário com 5 palavras de programação como chave e seus significados como seus respectivos valores. Exiba a 
+    palavra seguida de dois pontos e o seu significado, colocar uma linha em branco (\n) entre as definições.
+'''
 
 glossário = {'variável': 'Espaço na memória do computador destinado a um dado',
     'lista': 'Sequência de elemetos mutáveis durante a execução do programa',

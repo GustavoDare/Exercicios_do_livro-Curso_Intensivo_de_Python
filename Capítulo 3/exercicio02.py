@@ -1,8 +1,7 @@
 # Autor: Gustavo Daré
 # Data: 05/04/2022
 
-# Armazenar alguns nomes em uma lista e exibí-los individualmente com
-#     uma mesma saudação
+# Armazenar alguns nomes em uma lista e exibí-los individualmente com uma mesma saudação
 
 nomes = ["José", "Gustavo", "Gabriela", "Giovana", "Diego"]
 

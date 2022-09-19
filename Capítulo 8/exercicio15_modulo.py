@@ -1,15 +1,10 @@
 # Autor: Gustavo Daré
 # Data: 21/07/2022
 
-'''
-Módulo utilizado no exercício 15
-'''
+# Módulo utilizado no exercício 15
 
 def print_models(unprinted_designs, completed_models):
-    """
-    Simula a impressão de cada design, até que não haja mais nenhum.
-    Transfere cada design para completed_models após a impressão.
-    """
+    """Simula a impressão de cada design, até que não haja mais nenhum. Transfere cada design para completed_models após a impressão."""
     while unprinted_designs:
         current_design = unprinted_designs.pop()
 

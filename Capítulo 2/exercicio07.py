@@ -1,8 +1,7 @@
 # Autor: Gustavo Daré
 # Data: 04/04/2022
 
-# Exibir um nome retirando os espaços em suas extremidades (direita, 
-#     esquerda e ambas)
+# Exibir um nome retirando os espaços em suas extremidades (direita, esquerda e ambas)
 
 nome = "\n\tGustavo Daré  \n"
 

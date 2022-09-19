@@ -1,9 +1,10 @@
 # Autor: Gustavo Daré
 # Data: 22/04/2022
 
-# Crie um dicionário com 3 rios importantes e seus respectivos países,
-#     exiba uma mensagem para cada par chave-valor, exiba apenas as 
-#     chaves (rios), e exiba apenas os valores (países)
+'''
+Crie um dicionário com 3 rios importantes e seus respectivos países, exiba uma mensagem para cada par chave-valor, exiba apenas 
+    as chaves (rios), e exiba apenas os valores (países)
+'''
 
 glossário = {'nilo': 'egito', 'ganges': 'índia', 'volga': 'rússia'}
 

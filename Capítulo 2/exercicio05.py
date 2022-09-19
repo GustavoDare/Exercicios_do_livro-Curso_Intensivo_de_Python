@@ -3,5 +3,4 @@
 
 # Exibir o nome de um autor famoso e uma citação do mesmo
 
-print('\nMestre Oogway certa vez disse: "O ontem é história, o amanhã é '
-    'incerto, o hoje é uma dádiva. Por isso se chama presente."\n')
+print('\nMestre Oogway certa vez disse: "O ontem é história, o amanhã é incerto, o hoje é uma dádiva. Por isso se chama presente."\n')

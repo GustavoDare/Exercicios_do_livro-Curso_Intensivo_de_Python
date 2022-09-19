@@ -1,10 +1,7 @@
 # Autor: Gustavo Daré
 # Data: 25/04/2022
 
-'''
-Peça um número ao usuário e, em seguida, informe se o número é múltiplo
-    de dez ou não.
-'''
+# Peça um número ao usuário e, em seguida, informe se o número é múltiplo de dez ou não.
 
 numero = int(input("Digite um número e direi se ele é múltiplo de 10: "))
 

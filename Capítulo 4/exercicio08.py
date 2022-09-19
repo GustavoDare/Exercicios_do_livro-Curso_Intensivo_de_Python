@@ -1,8 +1,7 @@
 # Autor: Gustavo Daré
 # Data: 11/04/2022
 
-# Crie uma lista dos cubos dos números de 1 a 10 e exiba-a utilizando o
-#     laço for
+# Crie uma lista dos cubos dos números de 1 a 10 e exiba-a utilizando o laço for
 
 # Jeito 1
 print("\nJeito 1")

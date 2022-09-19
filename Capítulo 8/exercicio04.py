@@ -2,10 +2,8 @@
 # Data: 15/05/2022
 
 '''
-Modifique a função "make_shirt()" de modo que as camisetas sejam grandes
-    por default, com uma mensagem Eu amo Python. Crie uma camiseta 
-    grande e outra média com a mensagem default, e uma camiseta de 
-    qualquer tamanho com uma mensagem diferente.
+Modifique a função "make_shirt()" de modo que as camisetas sejam grandes por default, com uma mensagem Eu amo Python. Crie uma camiseta
+    grande e outra média com a mensagem default, e uma camiseta de qualquer tamanho com uma mensagem diferente.
 '''
 
 def make_shirt(tamanho = "G", estampa = "Eu amo Pyhton"):

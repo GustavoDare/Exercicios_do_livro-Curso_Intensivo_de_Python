@@ -2,11 +2,9 @@
 # Data: 21/04/2022
 
 '''
-Escrever uma cadeia if-elif-else para uma variável idade, caso o 
-    valor seja: menor que 2 - bebê, maior ou igual que 2 e menor que 
-    4 - criança, maior ou igual que 4 e menor que 13 - garoto(a),
-    maior ou igual que 13 e menos que 20 - adolescente, maior ou igual 
-    que 20 e menos que 65 - adulto, 65 ou mais - idoso.
+Escrever uma cadeia if-elif-else para uma variável idade, caso o valor seja: menor que 2 - bebê, maior ou igual que 2 e menor 
+    que 4 - criança, maior ou igual que 4 e menor que 13 - garoto(a), maior ou igual que 13 e menos que 20 - adolescente, maior 
+    ou igual que 20 e menos que 65 - adulto, 65 ou mais - idoso.
 '''
 
 idade = 45

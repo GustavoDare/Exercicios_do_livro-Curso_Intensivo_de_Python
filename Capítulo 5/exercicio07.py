@@ -1,9 +1,10 @@
 # Autor: Gustavo Daré
 # Data: 21/04/2022
 
-# Crie uma lista 'frutas_favoritas' com 3 nomes de frutas. Crie 5 if's
-#     independentes que verifiquem se determinada fruta está na lista, 
-#     em caso afirmativo exibir uam mensagem confirmando.
+'''
+Crie uma lista 'frutas_favoritas' com 3 nomes de frutas. Crie 5 if's independentes que verifiquem se determinada fruta está na 
+    lista, em caso afirmativo exibir uam mensagem confirmando.
+'''
 
 frutas_favoritas = ["morango", "goiaba", "manga"]
 if "morango" in frutas_favoritas:

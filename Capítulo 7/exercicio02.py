@@ -2,10 +2,8 @@
 # Data: 25/04/2022
 
 '''
-Escreva um programa que pergunte ao usuário quantas pessoas estão em 
-    seu grupo para jantar. Se a resposta for maior que oito, exiba uma 
-    mensagem dizendo que eles deverão esperar uma mesa. Caso contrário,
-    informe que sua mesa está pronta.
+Escreva um programa que pergunte ao usuário quantas pessoas estão em seu grupo para jantar. Se a resposta for maior que oito, 
+    exiba uma mensagem dizendo que eles deverão esperar uma mesa. Caso contrário, informe que sua mesa está pronta.
 '''
 
 reserva = int(input("Você gostaria de uma mesa para quantas pessoas? "))

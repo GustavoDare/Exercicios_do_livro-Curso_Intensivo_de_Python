@@ -2,10 +2,8 @@
 # Data: 21/04/2022
 
 '''
-Transformar a intrução if-else do exercício 4 do capítulo 5 em uma 
-    intrução if-elif-else sendo as pontuações: verde - 5 pontos, 
-    amarelo - 10 pontos e vermelho - 15 pontos. Escrever um programa
-    para cada possibilidade.
+Transformar a intrução if-else do exercício 4 do capítulo 5 em uma intrução if-elif-else sendo as pontuações: verde - 5 pontos, 
+    amarelo - 10 pontos e vermelho - 15 pontos. Escrever um programa para cada possibilidade.
 '''
 
 cor_alienígena = 'verde'

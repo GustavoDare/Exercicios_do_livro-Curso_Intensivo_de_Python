@@ -1,12 +1,11 @@
 # Autor: Gustavo Daré
 # Data: 08/04/2022
 
-# Criar uma lista com 5 lugares, exbir a lista, exibir a lista em ordem
-#     alfabética com sorted(), exibir a lista na forma original, exebir
-#     a lista em ordem alfabética inversa com sorted(), exibir a lista
-#     na forma original, utilizar reverse() na lista e exibí-la, repetir
-#     este último, utilizar sort() na lista e exibí-la, utilizar sort()
-#     na lista deixando em ordem alfabética inversa e exibí-la.
+'''
+Criar uma lista com 5 lugares, exbir a lista, exibir a lista em ordem alfabética com sorted(), exibir a lista na forma original, 
+    exebir a lista em ordem alfabética inversa com sorted(), exibir a lista na forma original, utilizar reverse() na lista e exibí-la, 
+    repetir este último, utilizar sort() na lista e exibí-la, utilizar sort() na lista deixando em ordem alfabética inversa e exibí-la.
+'''
 
 locais = ["londres", "barcelona", "nova iorque", "paris", "buenos aires"]
 print(f"\nOrdem original da lista: {locais}")

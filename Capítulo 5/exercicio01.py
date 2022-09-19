@@ -1,8 +1,7 @@
 # Autor: Gustavo Daré
 # Data: 20/04/2022
 
-# Escreva 10 testes condicionais e exiba qual o teste e o resultado
-#     previsto. Deve ter 5 resultados True e 5 resultados False.
+# Escreva 10 testes condicionais e exiba qual o teste e o resultado previsto. Deve ter 5 resultados True e 5 resultados False.
 
 comida_preferida = "estrogonofe"
 esporte_preferido = "handebol"
