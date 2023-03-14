@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 05/04/2022
-
-# Armazenar marcas de carros e exibí-las com uma mensagem
+"""
+Pense em seu meio de transporte preferido, como motocicleta ou carro, e crie uma lista que armazene vários exemplos. Utilize sua lista para exibir uma série de frases sobre esses itens, como “Gostaria de ter uma moto Honda”.
+"""
 
 carros = ["ferrari", "bmw", "lamborghini", "honda"]
 

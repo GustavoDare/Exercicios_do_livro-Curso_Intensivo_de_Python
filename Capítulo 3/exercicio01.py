@@ -1,12 +1,11 @@
-# Autor: Gustavo Daré
-# Data: 05/04/2022
+"""
+Armazene os nomes de alguns de seus amigos em uma lista chamada names. Exiba o nome de cada pessoa acessando cada elemento da lista, um de cada vez.
+"""
 
-# Armazenar alguns nomes em uma lista e exibí-los individualmente
+names = ["José", "Gustavo", "Gabriela", "Giovana", "Diego"]
 
-nomes = ["José", "Gustavo", "Gabriela", "Giovana", "Diego"]
-
-print(f"\nNome no índice 1: {nomes[0]}")
-print(f"Nome no índice 2: {nomes[1]}")
-print(f"Nome no índice 3: {nomes[2]}")
-print(f"Nome no índice 4: {nomes[3]}")
-print(f"Nome no índice 5: {nomes[4]}\n")
+print(f"\nNome no índice 0: {names[0]}")
+print(f"Nome no índice 1: {names[1]}")
+print(f"Nome no índice 2: {names[2]}")
+print(f"Nome no índice 3: {names[3]}")
+print(f"Nome no índice 4: {names[4]}\n")

@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 08/04/2022
-
-# Criar uma lista com nome de países e utilizar todas as funções apresentadas no capítulo
+"""
+Pensa em algo que você poderia armazenar em uma lista. Por exemplo, você poderia criar uma lista de montanhas, rios, países, cidades, idiomas ou qualquer outro item que quiser. Escreva um programa que crie uma lista contendo esses itens e então utilize cada função apresentada neste capítulo pelo menos uma vez.
+"""
 
 paises = ["brasil", "argentina", "estados unidos", "chile", "portugal", "itália"]
 
