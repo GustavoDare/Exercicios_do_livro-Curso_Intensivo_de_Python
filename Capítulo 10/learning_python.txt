@@ -1,0 +1,9 @@
+Em Python podemos armazenar dados em variáveis
+Em Python podemos criar listas de dados e trabalhar com cada dado individualmente
+Em Python podemos criar tuplas, que são listas de dados permanentes
+Em Python podemos criar dicionários, que armazenam pares chave-valor
+Em Python podemos trabalhar com laços como o comando e o comando while
+Em Python podemos trabalhar com condições com o comando if
+Em Python podemos trabalhar com classes e instrâncias dessas classes
+Em Python podemos trabalhar com arquivos
+Em Python podemos tratar exceções que podem ocorrer
