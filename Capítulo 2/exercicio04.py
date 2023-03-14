@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 04/04/2022
-
-# Exibir um nome em minúsculo, maiúsculo e com iniciais maiúsculas
+"""
+Armazene o nome de uma pessoa em uma variável e então apresente o nome dessa pessoa em letras minúsculas, em letras maiúsculas e somente com a primeira letra maiúscula.
+"""
 
 nome_sobrenome = "gUstAvo dARé"
 

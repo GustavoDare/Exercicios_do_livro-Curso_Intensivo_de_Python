@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 04/04/2022
-
-# Exibir uma mensagem, modificá-la e exibí-la novamente
+"""
+Armazene uma mensagem em uma variável e, em seguida, exiba essa mensagem. Então altere o valor de sua variável para uma nova mensagem e mostre essa nova mensagem.
+"""
 
 mensagem = "Mesagem à ser modificada"
 print(f"\n{mensagem} \n")
