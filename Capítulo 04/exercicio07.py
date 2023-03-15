@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 11/04/2022
-
-# Crie uma lista dos múltiplos de 3, de 3 a 30 e exiba-a utilizando o laço for
+"""
+Crie uma lista de múltiplos de 3, de 3 a 30. Use um laço for para exibir os números de sua lista.
+"""
 
 # Jeito 1
 print(f"\nJeito 1")

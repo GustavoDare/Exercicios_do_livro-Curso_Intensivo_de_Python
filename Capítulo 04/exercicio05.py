@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 11/04/2022
-
-# Criar uma lista de 1 a 1 milhão e exiba o valor mínimo, máximo e sua soma (min(), max(), sum())
+"""
+Crie uma lista de números de um a um milhão e, em seguida, use min() e max() para garantir que sua lista realmente começa em um e termina em um milhão. Além disso, utilize a função sum() para ver a rapidez com que Python é capaz de somar um milhão de números.
+"""
 
 numeros = list(range(1, 1000001))
 print(min(numeros))

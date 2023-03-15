@@ -1,7 +1,6 @@
-# Autor: Gustavo Daré
-# Data: 17/04/2022
-
-# Copiar o arquivo foods.py do capítulo 4 do livro e imprimir as listas com um laço for
+"""
+Todas as versões de foods.py nesta seção evitaram usar laços for para fazer exibições a fim de economizar espaço. Escolha uma versão de foods.py e escreva dois laços for para exibir cada lista de comidas.
+"""
 
 my_foods = ['pizza', 'falafel', 'carrot cake']
 friend_foods = my_foods[:]

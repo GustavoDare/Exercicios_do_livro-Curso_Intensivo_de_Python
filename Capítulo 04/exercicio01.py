@@ -1,7 +1,8 @@
-# Autor: Gustavo Daré
-# Data: 11/04/2022
-
-# Criar uma lista com três sabores de pizza, escrever uma mensagem para cada pizza (utilizando for) e uma mensagem fora do laço for.
+"""
+Pense em pelo menos três tipos de pizzas favoritas. Armazene os nomes dessas pizzas e, então, utilize um laço for para exibir o nome de cada pizza.
+• Modifique seu laço for para mostrar uma frase usando o nome da pizza em vez de exibir apenas o nome dela. Para cada pizza, você deve ter uma linha na saída contendo uma frase simples como Gosto de pizza de pepperoni.
+• Acrescente uma linha no final de seu programa, fora do laço for, que informe quanto você gosta de pizza. A saída deve ser constituída de três ou mais linhas sobre os tipos de pizza que você gosta e de uma frase adicional, por exemplo, Eu realmente adoro pizza!
+"""
 
 pizzas = ["calabresa", "carne seca", "brócolis com bacon"]
 for pizza in pizzas:
