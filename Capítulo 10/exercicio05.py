@@ -8,5 +8,5 @@ while True:
     if resposta.lower() == 'q' or resposta.lower() == 'quit':
         break
     else:
-        with open('Capítulo 10\ ansers.txt', 'a', encoding="utf8") as file_object:
+        with open('Capítulo 10\ answers.txt', 'a', encoding="utf8") as file_object:
             file_object.write(f'{resposta}\n')
